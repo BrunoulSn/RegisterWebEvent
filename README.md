@@ -22,4 +22,5 @@ A clean and responsive web application for event registration, built with HTML, 
 
 1. Clone the repository:
    ```bash[
-https://github.com/BrunoulSn/RegisterWebEvent.git]
+https://github.com/BrunoulSn/RegisterWebEvent.git 
+]
