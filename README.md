@@ -21,5 +21,6 @@ A clean and responsive web application for event registration, built with HTML, 
 ## How to use this Repository
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/event-register.git
+
+https://github.com/BrunoulSn/RegisterWebEvent.git 
+
